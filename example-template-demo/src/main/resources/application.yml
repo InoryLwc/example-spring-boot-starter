@@ -1,0 +1,5 @@
+example-demo:
+  username: poi
+  password: 123
+  ip: 127.0.0.1
+  port: 80
